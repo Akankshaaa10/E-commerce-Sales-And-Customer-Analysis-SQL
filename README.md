@@ -1,50 +1,33 @@
-Ecommerce Sales & Customer Analysis (SQL)
+# Ecommerce Sales & Customer Analysis (SQL)
 
-Overview
-
+## Overview
 This project analyzes ecommerce transaction data using SQL to uncover insights about sales performance, customer behavior, and product trends. The analysis simulates a real-world business scenario where a data analyst must extract meaningful insights from raw transactional data.
 
-Dataset
-
+## Dataset
 The analysis uses three tables:
 
-customers
+- **customers**
+- **products**
+- **orders**
 
-products
+## Key SQL Concepts
+- **Joins**
+- **Aggregations (SUM, AVG, COUNT)**
+- **GROUP BY & HAVING**
+- **Date functions**
+- **Window functions (RANK)**
 
-orders
+## Questions Answered
+The project answers **20 business questions** across:
 
+- **Data Exploration**
+- **Sales Analysis**
+- **Customer Analysis**
+- **Product Performance**
 
-Key SQL Concepts
+## Tools
+- **PostgreSQL**
+- **SQL**
 
-Joins
-
-Aggregations (SUM, AVG, COUNT)
-
-GROUP BY & HAVING
-
-Date functions
-
-Window functions (RANK)
-
-
-Questions Answered
-
-The project answers 20 business questions across:
-
-Data Exploration
-
-Sales Analysis
-
-Customer Analysis
-
-Product Performance
-
-
-Tools
-
-PostgreSQL, SQL
-
-Key Insight
-
-The analysis identifies revenue trends, top customers, and product performance to support data-driven business decisions.
+## Key Insight
+The analysis identifies revenue trends, top customers, and product performance to support **data-driven business decisions**
