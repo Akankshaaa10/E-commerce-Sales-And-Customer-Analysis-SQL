@@ -1,7 +1,7 @@
 # Ecommerce Sales & Customer Analysis (SQL)
 
 ## Overview
-This project analyzes ecommerce transaction data using SQL to uncover insights about sales performance, customer behavior, and product trends. The analysis simulates a real-world business scenario where a data analyst must extract meaningful insights from raw transactional data.
+This project analyzes ecommerce transaction data using SQL to uncover insights about sales performance, customer behavior, and product trends.
 
 ## Dataset
 The analysis uses three tables:
